@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/johnpwood/johnwood.io#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "del": "^3.0.0",
+    "express": "^4.16.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
   }
 }
